@@ -1,3 +1,3 @@
-#ts-esbuild-node-watcher-boilerplate
+# ts-esbuild-node-watcher-boilerplate
 
-Extremely simple node boilerplate with watcher.
+Simple node boilerplate with watcher.
